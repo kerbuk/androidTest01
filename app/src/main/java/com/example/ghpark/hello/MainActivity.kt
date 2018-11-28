@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        testView.text = "안녕1"
+        testView.text = "안녕21"
 
 
         /*val myTextView = findViewById(R.id.testView) as TextView
